@@ -27,8 +27,10 @@
 1. Clone repository
    ```bash
    https://github.com/TeeraphatPhungamkuew/ai-job-predictor-2030.git
+   
 2. ติดตั้ง libraries ที่จำเป็น
    pip install -r requirements.txt
+   
 3.รันโปรแกรม
    streamlit run app.py
 
