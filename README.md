@@ -30,6 +30,6 @@
 2. ติดตั้ง libraries ที่จำเป็น
    pip install -r requirements.txt
 3.รันโปรแกรม
-streamlit run app.py
+   streamlit run app.py
 
 Developed by Teeraphat for Data Science Portfolio
